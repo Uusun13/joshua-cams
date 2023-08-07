@@ -1,0 +1,47 @@
+img {
+    width:400px;
+    height:220px;
+    object-fit: cover;
+    border-radius:3px;
+    display:inline-block;
+    margin-top: 20px;
+}
+p {
+    font-family:'Dancing Script', cursive;
+    font-size:20px;
+    display:inline—block;
+}
+.top {
+    margin-top: 0;
+    display:block;
+    background-color: antiquewhite;
+    height:50px;
+    text-align: center;
+    padding-top: 20px;
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.video-title {
+    font-weight: bold;
+    font-size:35px;
+}
+.search {
+    border-radius:10px;
+    width:400px;
+    display:block;
+    font-family: 'Courier New', Courier, monospace;
+    height:30px;
+    text-align: center;
+    border-style:dashed;
+    margin:auto;
+}
+.video-preview {
+    display:inline-block;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.description {
+    font-size:25px;
+    color:grey;
+}
+
